@@ -1,4 +1,4 @@
-<h1>Hello, Farhan here! <br/><a href="https://github.com/FarhanQ77">Final Year Undergraduate Student in Comp Sci</a>, <a href="https://www.linkedin.com/in/farhan-qadir-226878249/">Aspiring Data Scientist with interest in AI and Machine Learning </a>
+<h1>Hello, Farhan here! <br/><a href="https://github.com/FarhanQ77"> Graduated Student in Comp Sci</a>, <a href="https://www.linkedin.com/in/farhan-qadir-226878249/">Aspiring Data Scientist with interest in AI and Machine Learning. Current Master's student in Data Science! </a>
 
 <h2> Software Development Projects:</h2>
 
