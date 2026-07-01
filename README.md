@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Farhan Qadir
 
-🎓 MSc Data Science Student at the University of Greenwich
+MSc Data Science Student at the University of Greenwich
 
-💻 Computer Science Graduate
+Computer Science Graduate
 
-📊 Aspiring Data Engineer | Data Scientist | AI Engineer | Software Engineer
+Aspiring Data Engineer | Data Scientist | AI Engineer | Software Engineer
 
 I'm passionate about building intelligent systems using Machine Learning, Data Engineering and Cloud technologies. I enjoy transforming raw data into useful insights and developing scalable applications using Python and Azure.
 
@@ -12,12 +12,12 @@ I'm passionate about building intelligent systems using Machine Learning, Data E
 
 ## 🚀 About Me
 
-- 🎓 MSc Data Science student
-- 💡 Interested in AI, Machine Learning and Data Engineering
-- ☁️ Learning Microsoft Azure & Microsoft Fabric
-- 🐍 Strong Python and SQL developer
-- 📈 Interested in Financial Technology, Analytics and Cloud Engineering
-- 🌱 Currently working on Explainable Machine Learning for Credit Default Risk Prediction
+-  MSc Data Science student
+-  Interested in AI, Machine Learning and Data Engineering
+-  Learning Microsoft Azure & Microsoft Fabric
+-  Strong Python and SQL developer
+-  Interested in Financial Technology, Analytics and Cloud Engineering
+-  Currently working on Explainable Machine Learning for Credit Default Risk Prediction
 
 ---
 
@@ -146,4 +146,4 @@ Website: https://www.whitefielddentalpractice.co.uk/
 - GitHub: https://github.com/FarhanQ77
 - LinkedIn: https://www.linkedin.com/in/fsqadir/
 
-Thanks for visiting my profile! ⭐
+Thanks for visiting my profile! 
